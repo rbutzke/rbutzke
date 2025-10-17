@@ -7,7 +7,7 @@ Também sou Professor Universitario a 7 anos contribuindo na formação de novos
 
 
 ## 🌐 Socials:
-[![LinkedIn] (https://www.linkedin.com/in/roberto-butzke-junior-b676a230/) [![email] (mailto:roberto.butzke.junior@gmail.com)] 
+[![LinkedIn] (https://www.linkedin.com/in/roberto-butzke-junior-b676a230/)] [![email] (mailto:roberto.butzke.junior@gmail.com)] 
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   
