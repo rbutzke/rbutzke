@@ -3,7 +3,7 @@
 
 Trabalho a mais de 10 anos com tecnologia sempre focado em integrações, utilizando NestJS, Express.js, Node.js, TypeScript, Javascript, AWS e uma série de outras tecnologias. 
   
-Também sou Professor Universitario a 7 anos contribuindo na formação de novos profissionais.
+Também sou Professor Universitário a 7 anos contribuindo na formação de novos profissionais.
 
 
 ## 🌐 Socials:
