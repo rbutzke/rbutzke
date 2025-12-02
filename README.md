@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Olá, eu sou Roberto Butzke Junior  
 
-Trabalho a mais de 10 anos com tecnologia sempre focado em integrações, utilizando NestJS, Express.js, Node.js, TypeScript, Javascript, Java, AWS , GCP e uma série de outras tecnologias. 
+Trabalho a mais de 10 anos com tecnologia sempre focado em integrações, utilizando NestJS, Express.js, Node.js, TypeScript, Javascript, Java, Spring Boot, Python, AWS , GCP e uma série de outras tecnologias. 
   
 Também sou Professor Universitário a 7 anos contribuindo na formação de novos profissionais.
 
@@ -10,7 +10,7 @@ Também sou Professor Universitário a 7 anos contribuindo na formação de novo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-butzke-junior-b676a230/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roberto.butzke.junior@gmail.com) 
    
 # 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)         
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Maven](https://img.shields.io/badge/maven-C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)     
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)    
