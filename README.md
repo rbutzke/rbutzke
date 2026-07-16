@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Olá, eu sou Roberto Butzke Junior  
 
-Trabalho a 17 anos com tecnologia sempre focado em integrações, utilizando NestJS, Express.js, Node.js, TypeScript, Javascript, Java, Spring Boot, Python, AWS , GCP e uma série de outras tecnologias. 
+Trabalho a 18 anos com tecnologia sempre focado em integrações, utilizando NestJS, Express.js, Node.js, TypeScript, Javascript, Java, Spring Boot, Python, AWS , GCP e uma série de outras tecnologias. 
   
 Também sou Professor Universitário a 7 anos contribuindo na formação de novos profissionais.
 
